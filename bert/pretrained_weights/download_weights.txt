@@ -1,0 +1,9 @@
+# Instructions for downloading weights
+
+1. Install Git LFS (Large File Storage):
+   git lfs install
+
+2. Clone the repository from Hugging Face:
+   git clone https://huggingface.co/google-bert/bert-base-uncased
+
+The pre-trained weights will be downloaded into the `bert-base-uncased` directory.

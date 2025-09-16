@@ -1,0 +1,20 @@
+# Instructions for downloading pretrained weights
+
+1. Swin Transformer pretrained weights
+   Run the following command:
+   wget https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth
+
+2. LAVT pretrained weights
+   Please download from Google Drive according to the training dataset:
+
+   - RefCOCO:
+     https://drive.google.com/file/d/13D-OeEOijV8KTC3BkFP-gOJymc6DLwVT/view?usp=sharing
+
+   - RefCOCO+:
+     https://drive.google.com/file/d/1B8Q44ZWsc8Pva2xD_M-KFh7-LgzeH2-2/view?usp=sharing
+
+   - G-Ref (UMD split):
+     https://drive.google.com/file/d/1BjUnPVpALurkGl7RXXvQiAHhA-gQYKvK/view?usp=sharing
+
+   - G-Ref (Google split):
+     https://drive.google.com/file/d/1weiw5UjbPfo3tCBPfB8tu6xFXCUG16yS/view?usp=sharing

@@ -1,0 +1,33 @@
+# Core DL stack
+torch==2.1.0
+torchvision==0.16.0
+timm==1.0.9
+einops==0.8.0
+
+# OpenMMLab
+mmengine==0.10.7
+mmcv==2.0.1
+
+# Data I/O & processing
+numpy==1.23.0
+scipy==1.12.0
+pandas==2.0.3
+pyarrow==20.0.0
+pillow==10.4.0
+opencv-python-headless==4.8.1.78
+albumentations==1.3.1
+scikit-image==0.22.0
+pycocotools==2.0.7
+
+# NLP / Hugging Face
+transformers==4.48.3
+tokenizers==0.21.0
+huggingface-hub==0.32.3
+safetensors==0.4.5
+sentencepiece==0.2.0
+
+# Utils
+omegaconf==2.3.0
+tqdm==4.66.3
+requests==2.32.2
+PyYAML==6.0.2
