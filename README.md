@@ -172,7 +172,7 @@ If you find this repository useful, please consider citing our paper:
 @article{RIS-FUSION2025,
   title   = {RIS-FUSION: Rethinking Text-Driven Infrared and Visible Image Fusion from the Perspective of Referring Image Segmentation},
   author  = {Ma, Siju and Gong, Changsiyu and Fan, Xiaofeng and Ma, Yong and Jiang, Chengjie},
-  journal = {...},
+  journal = {arXiv preprint arXiv:2509.12710},
   year    = {2025}
 }
 ```
