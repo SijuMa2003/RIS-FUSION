@@ -4,11 +4,30 @@
 
 <sup>1</sup> Central University of Finance and Economics, Beijing, China  
 <sup>2</sup> Tsinghua University, Shenzhen, China  
-\*Corresponding Author
+\*Corresponding Author  
+
+---
 
 
 ![Model Overview](figure/model_architecture.png)
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2509.12710">
+    <img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg" alt="Paper"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/datasets/ronniejiangC/MM-RIS">
+    <img src="https://img.shields.io/badge/Dataset-MM--RIS-ffcc00.svg" alt="Dataset"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/ronniejiangC/RIS-FUSION">
+    <img src="https://img.shields.io/badge/Model-RIS--FUSION-4CAF50.svg" alt="Model"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SijuMa2003/RIS-FUSION">
+    <img src="https://img.shields.io/badge/Code-GitHub-black.svg" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://zhuanlan.zhihu.com/p/1951944167010833751">
+    <img src="https://img.shields.io/badge/Zhihu-专栏-blue.svg" alt="Zhihu"/>
+  </a>
+</p>
 
 ---
 
